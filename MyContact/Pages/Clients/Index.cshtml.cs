@@ -54,7 +54,3 @@ namespace MyContact.Pages.Clients
         public string created_at { get; set; }
     }
 }
-
-
-
-//Server = localhost; Database = MyContact; User Id = sa; Password = 123456
